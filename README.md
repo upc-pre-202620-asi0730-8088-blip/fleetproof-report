@@ -1,51 +1,37 @@
-<div align="center">
+<!-- report-cover:start -->
+<div align="center" class="report-cover">
 
-  <img src="docs/assets/chapter-1/upc-logo.png" alt="Logo UPC" width="110" />
+  <img src="docs/assets/chapter-1/upc-logo.png" alt="Logo UPC" width="62" />
 
-  <h2>Universidad Peruana de Ciencias Aplicadas</h2>
-  <h3>Carrera de Ingeniería de Software</h3>
+  <p>Universidad Peruana de Ciencias Aplicadas<br />Carrera de Ingeniería de Software</p>
 
-  <br />
+  <p class="course"><strong>1ASI0730<br />Aplicaciones Web</strong></p>
 
-  <h2>1ASI0730</h2>
-  <h2>Aplicaciones Web</h2>
+  <p>NRC<br /><strong>8088</strong></p>
 
-  <p><strong>NRC</strong><br /><strong>8088</p>
+  <h1>Informe de Trabajo Final</h1>
 
-  <h1>Informe del Trabajo Final</h1>
+  <p>Docente<br /><strong>Bautista Ubillús, Efrain Ricardo</strong></p>
 
-  <p><strong>Docente</strong><br />
-  Bautista Ubillús, Efrain Ricardo</p>
-
-  <br />
-
-  <p><strong>Equipo</strong><br />
-  Blip</p>
-
-  <p><strong>Proyecto</strong><br />
-  FleetProof</p>
-
-  <br />
+  <p class="team">Equipo (startup)<br /><strong>BLIP</strong><br />Proyecto (producto)<br /><strong>FleetProof</strong></p>
 
   <h2>Integrantes</h2>
+  <table>
+    <thead><tr><th scope="col">Código</th><th scope="col">Apellidos y nombres</th></tr></thead>
+    <tbody>
+      <tr><td>U202311656</td><td>Reyes Limo, Sebastian Eduardo</td></tr>
+      <tr><td>U20201B253</td><td>Palomino Murga, Daniel Stalin</td></tr>
+      <tr><td>U20221B756</td><td>Becerra Durand, Sebastian Uriel</td></tr>
+      <tr><td>U202311464</td><td>Gómez De La Torre Huertas, Rodrigo Fernando</td></tr>
+      <tr><td>U202221024</td><td>Payesa Torres, Harrison Hubert</td></tr>
+    </tbody>
+  </table>
 
-  <p><strong>U202311656</strong> — Reyes Limo, Sebastian Eduardo</p>
-
-  <p><strong>U20201B253</strong> — Palomino Murga, Daniel Stalin</p>
-
-  <p><strong>U20221B756</strong> — Becerra Durand, Sebastian Uriel</p>
-
-  <p><strong>U202311464</strong> — Gómez De La Torre Huertas, Rodrigo Fernando</p>
-
-  <p><strong>U202221024</strong> — Payesa Torres, Harrison Hubert</p>
-
-  <br />
-
-  <p><strong>Período 202620</strong></p>
-
-  <p><strong>Septiembre 2026</strong></p>
+  <p class="period"><strong>Período 202620</strong></p>
+  <p class="month"><strong>Noviembre 2026</strong></p>
 
 </div>
+<!-- report-cover:end -->
 
 ---
 
@@ -61,6 +47,9 @@
 
 ## Tabla de Contenidos
 
+Para obtener el PDF con la carátula en una página, los diagramas renderizados y
+los encabezados de tabla repetidos, consulte [Exportar el informe](scripts/README.md).
+
 - [Registro de Versiones del Informe](docs/00-report-control.md)
 - [Project Report Collaboration Insights](docs/00-report-control.md#project-report-collaboration-insights)
 - [Student Outcome](docs/01-student-outcome.md)
@@ -69,7 +58,17 @@
 - [Capítulo III: Requirements Specification](docs/04-chapter-3-requirements-specification.md)
 - [Capítulo IV: Product Design](docs/05-chapter-4-product-design.md)
 - [Capítulo V: Product Implementation, Validation & Deployment](docs/06-chapter-5-implementation-validation-deployment.md)
+- [Sprint 2](docs/06-chapter-5-implementation-validation-deployment.md#522-sprint-2)
+  - [Sprint Planning 2](docs/06-chapter-5-implementation-validation-deployment.md#5221-sprint-planning-2)
+  - [Aspect Leaders and Collaborators](docs/06-chapter-5-implementation-validation-deployment.md#5222-aspect-leaders-and-collaborators)
+  - [Sprint Backlog 2](docs/06-chapter-5-implementation-validation-deployment.md#5223-sprint-backlog-2)
+  - [Development Evidence](docs/06-chapter-5-implementation-validation-deployment.md#5224-development-evidence-for-sprint-review)
+  - [Execution Evidence](docs/06-chapter-5-implementation-validation-deployment.md#5225-execution-evidence-for-sprint-review)
+  - [Services Documentation Evidence](docs/06-chapter-5-implementation-validation-deployment.md#5226-services-documentation-evidence-for-sprint-review)
+  - [Software Deployment Evidence](docs/06-chapter-5-implementation-validation-deployment.md#5227-software-deployment-evidence-for-sprint-review)
+  - [Team Collaboration Insights](docs/06-chapter-5-implementation-validation-deployment.md#5228-team-collaboration-insights-during-sprint)
 - [Plan de Trabajo AV1](docs/10-av1-work-plan.md)
+- [Entrevistas de validación AV2](docs/06-chapter-5-implementation-validation-deployment.md#53-validation-interviews)
 - [Control de Calidad de Rúbrica](docs/11-rubric-quality-control.md)
 - [Conclusiones](docs/07-conclusions.md)
 - [Bibliografía](docs/08-bibliography.md)

@@ -54,8 +54,8 @@ Este control asegura que el informe, la presentación, los videos y los reposito
 
 | Categoría | Pregunta de control | Estado |
 |---|---|---|
-| Programación | ¿El producto cumple el alcance técnico del hito? | TODO |
-| Redacción | ¿El texto usa términos oficiales y no presenta errores de ortografía o gramática? | TODO |
-| GitHub | ¿Existen ramas, commits, Pull Requests, merges y releases suficientes? | TODO |
-| Evidencia | ¿Cada afirmación importante tiene captura, enlace, video o fuente? | TODO |
-| Trazabilidad | ¿Cada User Story se relaciona con backlog, rama, commit, sprint y evidencia? | TODO |
+| Programación | ¿El producto cumple el alcance técnico del hito? | Frontend y Fake API documentados en 5.2.2; la aceptación completa de historias no está acreditada. |
+| Redacción | ¿El texto usa términos oficiales y no presenta errores de ortografía o gramática? | Marcadores de edición revisados; curso 1ASI0730 y NRC 8088 verificados en el texto del informe. |
+| GitHub | ¿Existen ramas, commits, Pull Requests, merges y releases suficientes? | Ramas y commits documentados en 5.2.2.4; el incremento no cuenta con tag de release documentado. |
+| Evidencia | ¿Cada afirmación importante tiene captura, enlace, video o fuente? | Capturas y enlaces incorporados; faltan video de navegación, tablero y documentación OpenAPI. |
+| Trazabilidad | ¿Cada User Story se relaciona con backlog, rama, commit, sprint y evidencia? | Backlog y commits registrados en 5.2.2; se identifican criterios sin aceptación y ajustes de alcance. |
