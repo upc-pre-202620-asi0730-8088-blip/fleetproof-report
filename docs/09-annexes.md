@@ -5,9 +5,9 @@
 | Entrega | Video | URL del video | Duración |
 |---|---|---|---|
 | AV1 | [Exposición AV1 - BLIP FleetProof](https://drive.google.com/file/d/1FLNnxTZTzsK9Y0VTbScm8yhSiuJtYtqe/view?usp=sharing) | Google Drive | 21 min 54 s |
-| TB1 | Pendiente para esa entrega | Pendiente para esa entrega | Pendiente para esa entrega |
-| AV2 | Pendiente para esa entrega | Pendiente para esa entrega | Pendiente para esa entrega |
-| TB2 | Pendiente para esa entrega | Pendiente para esa entrega | Pendiente para esa entrega |
+| TB1 | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión |
+| AV2 | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión |
+| TB2 | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión |
 
 El video AV1 corresponde al nombre de archivo `upc-pre-202620-1asi0730-8088-BLIP-expo-av1.mp4` según la convención del curso.
 
@@ -42,11 +42,11 @@ Prototipo desplegado (Landing Page v1.0.0): https://1asi0730-8088-blit.github.io
 
 ## Anexo D: Validation Interviews
 
-Pendiente para la entrega TB1. Corresponde a las entrevistas de validación del prototipo con usuarios de los dos segmentos objetivo, que se ejecutarán después de cerrar las tareas de validación funcional descritas en el [Capítulo V](06-chapter-5-implementation-validation-deployment.md). El registro seguirá el formato del curso: datos del participante, evidencia visual, enlace al video, timing, duración y resumen.
+La evidencia audiovisual de TB1 no está incorporada en esta versión. Corresponde a las entrevistas de validación del prototipo con usuarios de los dos segmentos objetivo, que se ejecutarán después de cerrar las tareas de validación funcional descritas en el [Capítulo V](06-chapter-5-implementation-validation-deployment.md). El registro seguirá el formato del curso: datos del participante, evidencia visual, enlace al video, timing, duración y resumen.
 
 ## Anexo E: About the Product
 
-Pendiente para la entrega TB1. Corresponde al video About-the-Product, que se grabará cuando la aplicación web cuente con las funcionalidades implementadas de los siguientes sprints. Mientras tanto, la propuesta de valor y el estado actual del producto se documentan en el [Capítulo I](02-chapter-1-introduction.md) y el [Capítulo V](06-chapter-5-implementation-validation-deployment.md), y el video About-the-Team de AV1 está disponible en el [Anexo F](#anexo-f-about-the-team).
+La evidencia audiovisual de TB1 no está incorporada en esta versión. Corresponde al video About-the-Product, que debe presentar la Web Application implementada en el Sprint 2. Mientras tanto, la propuesta de valor y el estado actual del producto se documentan en el [Capítulo I](02-chapter-1-introduction.md) y el [Capítulo V](06-chapter-5-implementation-validation-deployment.md), y el video About-the-Team de AV1 está disponible en el [Anexo F](#anexo-f-about-the-team).
 
 ## Anexo F: About the Team
 
