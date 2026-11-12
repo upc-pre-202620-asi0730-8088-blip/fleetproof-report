@@ -836,7 +836,7 @@ El diagrama de base de datos muestra las tablas que conforman FleetProof y las r
 ```mermaid
 erDiagram
     %% 1. User Management Context
-    USERS {
+    users {
         uuid id PK
         varchar email
         varchar password_hash
@@ -847,7 +847,7 @@ erDiagram
     }
 
     %% 2. Subscription Management Context
-    SUBSCRIPTIONS {
+    subscriptions {
         uuid id PK
         uuid user_id FK
         varchar service_type
@@ -858,7 +858,7 @@ erDiagram
     }
 
     %% 3. Vehicle Information Context
-    VEHICLES {
+    vehicles {
         uuid id PK
         varchar license_plate UK
         varchar brand
@@ -868,7 +868,7 @@ erDiagram
         timestamp registered_at
     }
 
-    SOURCE_CHECKS {
+    source_checks {
         uuid id PK
         uuid vehicle_id FK
         varchar source_name
@@ -878,7 +878,7 @@ erDiagram
     }
 
     %% 4. Report Management Context
-    VEHICLE_REPORTS {
+    vehicle_reports {
         uuid id PK
         uuid vehicle_id FK
         uuid requested_by_user_id FK
@@ -890,7 +890,7 @@ erDiagram
     }
 
     %% 5. Vehicle Monitoring Context
-    VEHICLE_MONITORINGS {
+    vehicle_monitorings {
         uuid id PK
         uuid vehicle_id FK
         uuid user_id FK
@@ -899,7 +899,7 @@ erDiagram
         timestamp next_scheduled_check
     }
 
-    MONITORING_ALERTS {
+    monitoring_alerts {
         uuid id PK
         uuid monitoring_id FK
         text change_detail
@@ -908,14 +908,14 @@ erDiagram
     }
 
     %% 6. Fleet Management Context
-    FLEETS {
+    fleets {
         uuid id PK
         uuid manager_user_id FK
         varchar fleet_name
         timestamp created_at
     }
 
-    FLEET_VEHICLE_ASSIGNMENTS {
+    fleet_vehicle_assignments {
         uuid id PK
         uuid fleet_id FK
         uuid vehicle_id FK
@@ -925,19 +925,19 @@ erDiagram
     }
 
     %% Relaciones Físicas (Foreign Keys)
-    USERS ||--o{ SUBSCRIPTIONS : "contrata"
-    USERS ||--o{ VEHICLE_REPORTS : "solicita"
-    USERS ||--o{ VEHICLE_MONITORINGS : "suscribe"
-    USERS ||--o{ FLEETS : "administra"
-    USERS ||--o{ FLEET_VEHICLE_ASSIGNMENTS : "es responsable de"
+    users ||--o{ subscriptions : "contrata"
+    users ||--o{ vehicle_reports : "solicita"
+    users ||--o{ vehicle_monitorings : "suscribe"
+    users ||--o{ fleets : "administra"
+    users ||--o{ fleet_vehicle_assignments : "es responsable de"
 
-    VEHICLES ||--o{ SOURCE_CHECKS : "registra consultas"
-    VEHICLES ||--o{ VEHICLE_REPORTS : "genera"
-    VEHICLES ||--o{ VEHICLE_MONITORINGS : "es monitoreado en"
-    VEHICLES ||--o{ FLEET_VEHICLE_ASSIGNMENTS : "es asignado en"
+    vehicles ||--o{ source_checks : "registra consultas"
+    vehicles ||--o{ vehicle_reports : "genera"
+    vehicles ||--o{ vehicle_monitorings : "es monitoreado en"
+    vehicles ||--o{ fleet_vehicle_assignments : "es asignado en"
 
-    FLEETS ||--o{ FLEET_VEHICLE_ASSIGNMENTS : "contiene"
-    VEHICLE_MONITORINGS ||--o{ MONITORING_ALERTS : "dispara"
+    fleets ||--o{ fleet_vehicle_assignments : "contiene"
+    vehicle_monitorings ||--o{ monitoring_alerts : "dispara"
 ```
 **Explicación, decisiones y relación con otros artefactos:**
 
