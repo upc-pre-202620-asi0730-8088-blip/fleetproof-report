@@ -566,7 +566,7 @@ flowchart TD
         S2_Header["[Header] Placa: ABC-123 | Estado: CRÍTICO | Botón 'Volver a Dashboard'"]
         S2_Summary["[Resumen] Marca, Modelo, VIN, Propietario, Último Snapshot"]
         S2_Actions["[Botones] 'Generar Nuevo Reporte' | 'Crear Caso de Regularización'"]
-        S2_History["[Timeline] Historial de Reportes v1.0, v2.0 | Alertas Pendientes"]
+        S2_History["[Timeline] Historial de Reportes v1.0, v2.0 | Alertas abiertas"]
         S2_Header --- S2_Summary --- S2_Actions --- S2_History
     end
     class SCREEN_2 screen;

@@ -111,8 +111,8 @@ Carpeta de evidencias: [Entrevistas BLIP en Google Drive](https://drive.google.c
 |---|---|
 | Segmento | Propietarios, compradores y asesores automotores |
 | Nombres y apellidos | Diego Salazar |
-| Edad | Pendiente |
-| Distrito | Pendiente |
+| Edad | Sin dato registrado |
+| Distrito | Sin dato registrado |
 | Fecha | 14/09/2026 |
 | Video | [Entrevista Diego Salazar](https://drive.google.com/file/d/1WOgmq7SrvhCsfrzepEs4MYiihV_H29So/view?usp=sharing) |
 | Screenshot | ![Entrevista Diego Salazar](assets/chapter-2/interviews/interview-diego-salazar.png) |
@@ -126,14 +126,14 @@ Carpeta de evidencias: [Entrevistas BLIP en Google Drive](https://drive.google.c
 |---|---|
 | Segmento | Propietarios, compradores y asesores automotores |
 | Nombres y apellidos | Carmen Rojas |
-| Edad | Pendiente |
-| Distrito | Pendiente |
+| Edad | Sin dato registrado |
+| Distrito | Sin dato registrado |
 | Fecha | 14/09/2026 |
 | Video | [Entrevista Carmen Rojas](https://drive.google.com/file/d/1oC_IIEz323KG5xMw2XBtcArW4iBLHnSo/view?usp=sharing) |
 | Screenshot | ![Entrevista Carmen Rojas](assets/chapter-2/interviews/interview-carmen-rojas.png) |
 | Timing analizado | 00:00-02:21 |
 | Duración total | 02:21 |
-| Resumen | Carmen refleja la perspectiva de una compradora particular que necesita validar un vehículo antes de tomar una decisión. El principal dolor identificado es la dificultad para interpretar resultados dispersos y saber si un hallazgo es grave, pendiente o simplemente informativo. Este perfil confirma que FleetProof debe presentar riesgos en lenguaje claro y permitir compartir evidencia con personas de confianza. |
+| Resumen | Carmen refleja la perspectiva de una compradora particular que necesita validar un vehículo antes de tomar una decisión. El principal dolor identificado es la dificultad para interpretar resultados dispersos y saber si un hallazgo es grave, sin resolver o simplemente informativo. Este perfil confirma que FleetProof debe presentar riesgos en lenguaje claro y permitir compartir evidencia con personas de confianza. |
 
 #### Entrevista 4: Roxana Limo
 
@@ -156,14 +156,14 @@ Carpeta de evidencias: [Entrevistas BLIP en Google Drive](https://drive.google.c
 |---|---|
 | Segmento | Responsables comerciales, logísticos y flotas pequeñas |
 | Nombres y apellidos | Patricia Valdez |
-| Edad | Pendiente |
-| Distrito | Pendiente |
+| Edad | Sin dato registrado |
+| Distrito | Sin dato registrado |
 | Fecha | 14/09/2026 |
 | Video | [Entrevista Patricia Valdez](https://drive.google.com/file/d/1xHdo7dU-W5I4Iyjdo4MMCZ1lm9HqCnv_/view?usp=sharing) |
 | Screenshot | ![Entrevista Patricia Valdez](assets/chapter-2/interviews/interview-patricia-valdez.png) |
 | Timing analizado | 00:00-02:14 |
 | Duración total | 02:14 |
-| Resumen | Patricia representa a responsables que coordinan vehículos dentro de una operación logística. Su entrevista evidencia que la información se administra entre documentos, hojas de cálculo y comunicación por mensajería, lo cual puede dificultar saber qué versión está actualizada o quién resolvió una observación. Este caso refuerza funcionalidades de historial, responsable asignado y seguimiento de pendientes. |
+| Resumen | Patricia representa a responsables que coordinan vehículos dentro de una operación logística. Su entrevista evidencia que la información se administra entre documentos, hojas de cálculo y comunicación por mensajería, lo cual puede dificultar saber qué versión está actualizada o quién resolvió una observación. Este caso refuerza funcionalidades de historial, responsable asignado y seguimiento de por atender. |
 
 #### Entrevista 6: Jorge Quispe
 
@@ -171,8 +171,8 @@ Carpeta de evidencias: [Entrevistas BLIP en Google Drive](https://drive.google.c
 |---|---|
 | Segmento | Responsables comerciales, logísticos y flotas pequeñas |
 | Nombres y apellidos | Jorge Quispe |
-| Edad | Pendiente |
-| Distrito | Pendiente |
+| Edad | Sin dato registrado |
+| Distrito | Sin dato registrado |
 | Fecha | 14/09/2026 |
 | Video | [Entrevista Jorge Quispe](https://drive.google.com/file/d/11BytvV6lIa4OAwuAf7aGYBnovSOXAWAk/view?usp=sharing) |
 | Screenshot | ![Entrevista Jorge Quispe](assets/chapter-2/interviews/interview-jorge-quispe.png) |
@@ -186,8 +186,8 @@ Carpeta de evidencias: [Entrevistas BLIP en Google Drive](https://drive.google.c
 |---|---|
 | Segmento | Responsables comerciales, logísticos y flotas pequeñas |
 | Nombres y apellidos | Mei Lin Tanaka |
-| Edad | Pendiente |
-| Distrito | Pendiente |
+| Edad | Sin dato registrado |
+| Distrito | Sin dato registrado |
 | Fecha | 14/09/2026 |
 | Video | [Entrevista Mei Lin Tanaka](https://drive.google.com/file/d/1DfSUkGKlXqStdo9usFfPKANPNCxcknrs/view?usp=sharing) |
 | Screenshot | ![Entrevista Mei Lin Tanaka](assets/chapter-2/interviews/interview-mei-lin.png) |
@@ -212,7 +212,7 @@ El análisis se realizó sobre siete entrevistas distribuidas en dos segmentos. 
 
 #### Segmento 1: propietarios, compradores y asesores automotores
 
-Este segmento agrupa a Cristhian Amaya, Diego Salazar y Carmen Rojas. Los tres participantes relataron procesos de consulta previos a una decisión de compra, venta o recomendación. En todos los casos se utilizaron varias fuentes y se conservaron capturas o enlaces como respaldo. Cristhian y Diego, por su rol asesor, destacaron la necesidad de traducir datos técnicos a lenguaje comprensible; Carmen evidenció la dificultad de una compradora particular para interpretar diferencias entre multa, observación registral o documento pendiente.
+Este segmento agrupa a Cristhian Amaya, Diego Salazar y Carmen Rojas. Los tres participantes relataron procesos de consulta previos a una decisión de compra, venta o recomendación. En todos los casos se utilizaron varias fuentes y se conservaron capturas o enlaces como respaldo. Cristhian y Diego, por su rol asesor, destacaron la necesidad de traducir datos técnicos a lenguaje comprensible; Carmen evidenció la dificultad de una compradora particular para interpretar diferencias entre multa, observación registral o documento sin resolver.
 
 | Patrón del segmento | Frecuencia | Porcentaje |
 |---|---:|---:|
@@ -242,7 +242,7 @@ Para este segmento, FleetProof debe funcionar como registro colaborativo por veh
 
 Las entrevistas confirman que el problema no se limita a consultar una placa. Los usuarios necesitan saber qué fuente respondió, cuándo respondió, qué evidencia respalda el dato y qué acción corresponde si aparece una observación. También se valida que la propuesta de BLIP debe integrar dos usos: consulta puntual para decidir y seguimiento recurrente para evitar que cambios posteriores pasen desapercibidos.
 
-Los hallazgos fortalecen cuatro decisiones de producto: primero, conservar snapshots fechados de cada consulta; segundo, mostrar un resumen de riesgo con explicación; tercero, permitir evidencia compartible; y cuarto, agregar funciones colaborativas para flotas o negocios que requieren responsables y seguimiento de pendientes.
+Los hallazgos fortalecen cuatro decisiones de producto: primero, conservar snapshots fechados de cada consulta; segundo, mostrar un resumen de riesgo con explicación; tercero, permitir evidencia compartible; y cuarto, agregar funciones colaborativas para flotas o negocios que requieren responsables y seguimiento de por atender.
 
 ## 2.3 Needfinding
 
@@ -286,7 +286,7 @@ La matriz de tareas resume las actividades actuales identificadas en los perfile
 | Revisar documentos, registros internos o fuentes externas | Media | Alta | Alta | Alta | Guardar evidencia, fuente, fecha y observación por cada revisión. |
 | Comparar información encontrada para detectar riesgos | Alta | Alta | Alta | Alta | Mostrar inconsistencias, alertas y nivel de riesgo explicable. |
 | Comunicar resultados a terceros | Alta | Alta | Media | Alta | Generar resumen claro y reporte compartible. |
-| Coordinar acciones con equipos internos | Baja | Media | Alta | Alta | Asignar pendientes, responsables y estado de resolución. |
+| Coordinar acciones con equipos internos | Baja | Media | Alta | Alta | Asignar tareas, responsables y estado de resolución. |
 | Conservar historial de consultas o cambios | Media | Alta | Alta | Alta | Mantener historial por vehículo y trazabilidad de decisiones. |
 | Dar seguimiento posterior al vehículo | Media | Media | Media | Alta | Activar monitoreo y alertas ante cambios importantes. |
 | Crear contenido o recomendaciones basadas en datos | Alta | Media | Baja | Baja | Convertir hallazgos en explicaciones comprensibles para usuarios. |
@@ -355,7 +355,7 @@ Figura 2.X. As-is Scenario Map para responsables de flotas pequeñas y medianas.
 
 Fuente y enlace al artefacto: tablero elaborado por el equipo en Miro. URL: [COMPLETAR].
 
-Este mapa representa el recorrido de un responsable que recibe la necesidad de revisar documentación vehicular, busca información en diversas fuentes, verifica datos y documentos, gestiona problemas encontrados y toma decisiones operativas. El principal dolor identificado es la dispersión de información y el seguimiento manual de pendientes, lo que sustenta funciones como checklist por fuente, dashboard de riesgo, registro de evidencia y casos de resolución.
+Este mapa representa el recorrido de un responsable que recibe la necesidad de revisar documentación vehicular, busca información en diversas fuentes, verifica datos y documentos, gestiona problemas encontrados y toma decisiones operativas. El principal dolor identificado es la dispersión de información y el seguimiento manual de por atender, lo que sustenta funciones como checklist por fuente, dashboard de riesgo, registro de evidencia y casos de resolución.
 
 #### Segmento 2: propietarios o compradores particulares
 
@@ -394,7 +394,7 @@ Este mapa representa a un actor que recibe consultas de usuarios, investiga info
 | Centralizar información por vehículo | Los actores buscan datos en fuentes separadas y comparan documentos manualmente. | Registro de vehículo, Source Check y Evidence. |
 | Explicar el riesgo encontrado | Usuarios particulares y asesores necesitan interpretar datos sin ambigüedad. | Risk Assessment con explicación textual, no solo visual. |
 | Conservar trazabilidad | Flotas y vendedores requieren demostrar de dónde salió cada dato. | Fuente, fecha, evidencia y responsable por revisión. |
-| Dar seguimiento a pendientes | Las flotas gestionan problemas y responsables de forma manual. | Alert y Resolution Case. |
+| Dar seguimiento a observaciones abiertas | Las flotas gestionan problemas y responsables de forma manual. | Alert y Resolution Case. |
 | Compartir resultados confiables | Compradores, vendedores y asesores comunican información a terceros. | Reporte descargable y resumen compartible. |
 
 ## 2.4 Big Picture Event Storming
@@ -443,7 +443,7 @@ Figura 2.X. Fase Close del Big Picture Event Storming.
 
 En la fase Close se agruparon preguntas abiertas por tema. Las principales categorías fueron Vehicle Information, Vehicle Report, Fleet Management, External Systems, Subscription / Payment y Vehicle Monitoring. Estas preguntas ayudan a definir límites del producto y reducir incertidumbre técnica antes de construir historias de usuario.
 
-| Categoría | Preguntas abiertas | Decisión pendiente |
+| Categoría | Preguntas abiertas | Decisión por evaluar |
 |---|---|---|
 | Vehicle Information | ¿Qué fuentes oficiales brindan información?, ¿qué ocurre si una fuente no está disponible?, ¿cada cuánto se actualiza la información? | Definir fuentes iniciales y política de actualización. |
 | Vehicle Report | ¿Cómo se valida la precisión del reporte?, ¿cuánto tiempo estará disponible?, ¿qué ocurre si falla la generación? | Definir vigencia del reporte, manejo de fallos y evidencia visible. |

@@ -6,8 +6,10 @@
 |---|---|---|---|
 | AV1 | [Exposición AV1 - BLIP FleetProof](https://drive.google.com/file/d/1FLNnxTZTzsK9Y0VTbScm8yhSiuJtYtqe/view?usp=sharing) | Google Drive | 21 min 54 s |
 | TB1 | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión |
-| AV2 | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión |
+| AV2 | Exposición AV2 – BLIP FleetProof | Archivo MP4 de entrega individual | — |
 | TB2 | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión | Evidencia no incorporada en esta versión |
+
+El video AV2 se entrega como `upc-pre-202620-1asi0730-8088-blip-expo-av2.mp4`.
 
 El video AV1 corresponde al nombre de archivo `upc-pre-202620-1asi0730-8088-BLIP-expo-av1.mp4` según la convención del curso.
 
@@ -74,3 +76,11 @@ Las grabaciones originales de cada sesión están en Google Drive: [Validación 
 | Screenshot | ![Portada del video About-the-Team de la entrega AV1](assets/team/about-the-team-av1.png) |
 | Pauta de secuencias | Detallada en [Video About-the-Team](07-conclusions.md#video-about-the-team) |
 
+
+### Evidencia de AV2
+
+| Elemento | Evidencia |
+|---|---|
+| Video en Microsoft Stream | [About the Team AV2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311656_upc_edu_pe/IQAbbm_PwsF9Sqe3-cD1YA9HAZaLuQEnaHpzU96VtGrvscY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IXcbKr) |
+| Duración | 00:06:09 |
+| Pauta y fotograma | [Video About-the-Team](07-conclusions.md#video-about-the-team) |

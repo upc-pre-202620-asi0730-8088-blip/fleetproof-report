@@ -6,7 +6,7 @@
 
 El desarrollo de la primera entrega permitió establecer y delimitar el problema que FleetProof busca abordar: la verificación de información documentaria y administrativa de vehículos se realiza actualmente mediante consultas distribuidas entre diferentes fuentes, lo que dificulta consolidar resultados, conservar evidencias, comparar estados y realizar seguimiento de observaciones. Esta problemática se encuentra especialmente relacionada con empresas que administran flotas pequeñas y medianas, aunque también se identificó su presencia en propietarios, compradores y conductores independientes.
 
-Los resultados obtenidos durante el Needfinding brindan evidencia inicial que respalda varios de los *User Assumptions* planteados. Las entrevistas muestran que los usuarios consultan diferentes fuentes, utilizan documentos, hojas de cálculo, capturas y mensajería para conservar o compartir información, y presentan dificultades para interpretar resultados dispersos o determinar quién debe atender una observación. En particular, las entrevistas de los segmentos empresarial y particular refuerzan la necesidad de centralizar información, conservar evidencia y facilitar el seguimiento de pendientes. 
+Los resultados obtenidos durante el Needfinding brindan evidencia inicial que respalda varios de los *User Assumptions* planteados. Las entrevistas muestran que los usuarios consultan diferentes fuentes, utilizan documentos, hojas de cálculo, capturas y mensajería para conservar o compartir información, y presentan dificultades para interpretar resultados dispersos o determinar quién debe atender una observación. En particular, las entrevistas de los segmentos empresarial y particular refuerzan la necesidad de centralizar información, conservar evidencia y facilitar el seguimiento de observaciones abiertas.
 
 A partir de estos hallazgos, se mantiene como hipótesis de trabajo que FleetProof puede aportar valor al extender la consulta vehicular hacia un proceso de monitoreo recurrente. Sin embargo, en esta etapa todavía no es posible afirmar que los *Business Assumptions*, *Business Outcome Assumptions* y *Feature Assumptions* hayan sido validados. Por ejemplo, aún se requiere comprobar mediante pruebas controladas si funcionalidades como la importación mediante CSV, el checklist por fuente, la comparación de estados, el dashboard de riesgo, el seguimiento de observaciones y las alertas permiten mejorar las métricas planteadas. 
 
@@ -21,6 +21,12 @@ Como siguiente paso, se recomienda profundizar el Needfinding y utilizar sus res
 En el desarrollo del producto se recomienda priorizar las funcionalidades relacionadas directamente con la propuesta de valor identificada: consolidación de información, trazabilidad de fuentes, generación de reportes, comparación de estados, identificación de unidades críticas y seguimiento de observaciones. Estas capacidades mantienen correspondencia con las User Stories y el Product Backlog definidos para FleetProof.
 
 Finalmente, se recomienda mantener el carácter iterativo del proceso Lean UX. Los *Assumptions* y *Hypothesis Statements* deben actualizarse conforme se obtenga nueva evidencia, evitando considerar como validadas aquellas afirmaciones que todavía no hayan sido contrastadas con métricas o pruebas de usuarios. Para las siguientes entregas, el roadmap deberá orientarse progresivamente desde la validación del problema hacia la validación de la propuesta de valor, las funcionalidades principales y posteriormente la implementación completa de la solución.
+
+### Conclusiones de AV2
+
+En el Sprint 3 se integró la aplicación Vue con los servicios ASP.NET Core y PostgreSQL. Las pruebas de ejecución documentaron la activación del plan, el registro y la asignación de vehículos, y la persistencia de la asignación después de recargar. La landing publicada dirige a la aplicación de AV2.
+
+Las sesiones guiadas aportaron dos prioridades: hacer visible la vigencia y cobertura de los datos por fuente, y distinguir el reporte puntual del seguimiento recurrente. Para la siguiente revisión se recomienda validar ambos recorridos en Vue sin asistencia, ampliar la muestra por segmento y medir si localizar el riesgo y revisar una placa requieren menos pasos.
 
 ## Video About-the-Team
 
@@ -50,3 +56,22 @@ El video presenta el trabajo del equipo BLIP en la entrega AV1 del curso Aplicac
 ### URL del video
 
 [Video About-the-Team - AV1 (Google Drive)](https://drive.google.com/file/d/1FLNnxTZTzsK9Y0VTbScm8yhSiuJtYtqe/view?usp=sharing)
+
+### AV2 · Sprint 3
+
+Esta versión reúne cinco testimonios sobre el trabajo en FleetProof. El equipo explica cómo coordinó la integración entre la aplicación y el backend, revisó la arquitectura, preparó material audiovisual y organizó las correcciones de la entrega. Los testimonios relacionan esas actividades con el Student Outcome ABET 5: distribución del liderazgo, colaboración y verificación de objetivos compartidos.
+
+**Archivo:** `upc-pre-202620-1asi0730-8088-blip-about-the-team-sprint-3.mp4`. **Duración:** 00:06:09.
+
+| Inicio | Secuencia |
+|---|---|
+| 00:00:00 | Portada de FleetProof: BLIP, Aplicaciones Web, NRC 8088, AV2. |
+| 00:00:04 | Sebastián Eduardo Reyes Limo: coordinación, integración de flotas y reportes por placa, y verificación del flujo después de recargar. |
+| 00:01:26 | Harrison Hubert Payesa Torres: trabajo audiovisual, validaciones, monitoreo y coordinación con GitFlow. |
+| 00:02:21 | Daniel Stalin Palomino Murga: diseño, diagramas de arquitectura, implementación y revisión de artefactos. |
+| 00:03:41 | Sebastián Uriel Becerra Durand: documentación de arquitectura, trazabilidad de cambios y aprendizaje técnico. |
+| 00:05:04 | Rodrigo Fernando Gómez De La Torre Huertas: correcciones en equipo y retrospectiva sobre organización y tiempos. |
+
+![Portada del video About the Team de AV2](assets/team/about-the-team-av2.png)
+
+[Video About the Team AV2 en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311656_upc_edu_pe/IQAbbm_PwsF9Sqe3-cD1YA9HAZaLuQEnaHpzU96VtGrvscY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IXcbKr)

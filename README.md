@@ -1,51 +1,37 @@
-<div align="center">
+<!-- report-cover:start -->
+<div align="center" class="report-cover">
 
-  <img src="docs/assets/chapter-1/upc-logo.png" alt="Logo UPC" width="110" />
+  <img src="docs/assets/chapter-1/upc-logo.png" alt="Logo UPC" width="62" />
 
-  <h2>Universidad Peruana de Ciencias Aplicadas</h2>
-  <h3>Carrera de Ingeniería de Software</h3>
+  <p>Universidad Peruana de Ciencias Aplicadas<br />Carrera de Ingeniería de Software</p>
 
-  <br />
+  <p class="course"><strong>1ASI0730<br />Aplicaciones Web</strong></p>
 
-  <h2>1ASI0730</h2>
-  <h2>Aplicaciones Web</h2>
+  <p>NRC<br /><strong>8088</strong></p>
 
-  <p><strong>NRC</strong><br /><strong>8088</p>
+  <h1>Informe de Trabajo Final</h1>
 
-  <h1>Informe del Trabajo Final</h1>
+  <p>Docente<br /><strong>Bautista Ubillús, Efrain Ricardo</strong></p>
 
-  <p><strong>Docente</strong><br />
-  Bautista Ubillús, Efrain Ricardo</p>
-
-  <br />
-
-  <p><strong>Equipo</strong><br />
-  Blip</p>
-
-  <p><strong>Proyecto</strong><br />
-  FleetProof</p>
-
-  <br />
+  <p class="team">Equipo (startup)<br /><strong>BLIP</strong><br />Proyecto (producto)<br /><strong>FleetProof</strong></p>
 
   <h2>Integrantes</h2>
+  <table>
+    <thead><tr><th scope="col">Código</th><th scope="col">Apellidos y nombres</th></tr></thead>
+    <tbody>
+      <tr><td>U202311656</td><td>Reyes Limo, Sebastian Eduardo</td></tr>
+      <tr><td>U20201B253</td><td>Palomino Murga, Daniel Stalin</td></tr>
+      <tr><td>U20221B756</td><td>Becerra Durand, Sebastian Uriel</td></tr>
+      <tr><td>U202311464</td><td>Gómez De La Torre Huertas, Rodrigo Fernando</td></tr>
+      <tr><td>U202221024</td><td>Payesa Torres, Harrison Hubert</td></tr>
+    </tbody>
+  </table>
 
-  <p><strong>U202311656</strong> — Reyes Limo, Sebastian Eduardo</p>
-
-  <p><strong>U20201B253</strong> — Palomino Murga, Daniel Stalin</p>
-
-  <p><strong>U20221B756</strong> — Becerra Durand, Sebastian Uriel</p>
-
-  <p><strong>U202311464</strong> — Gómez De La Torre Huertas, Rodrigo Fernando</p>
-
-  <p><strong>U202221024</strong> — Payesa Torres, Harrison Hubert</p>
-
-  <br />
-
-  <p><strong>Período 202620</strong></p>
-
-  <p><strong>Septiembre 2026</strong></p>
+  <p class="period"><strong>Período 202620</strong></p>
+  <p class="month"><strong>Noviembre 2026</strong></p>
 
 </div>
+<!-- report-cover:end -->
 
 ---
 
@@ -89,13 +75,13 @@
 
 | Producto | Repositorio | Versiones requeridas |
 |---|---|---|
-| Project Report | https://github.com/1ASI0730-8088-Blit/blip-fleetproof-project-report | AV1 |
-| Landing Page | https://github.com/1ASI0730-8088-Blit/fleetproof-landing-page | v1.0.0 publicada |
-| Frontend Web Application | https://github.com/1ASI0730-8088-Blit/blip-fleetproof-frontend | v1.0.0|
-| Web Services | https://github.com/1ASI0730-8088-Blit/blip-fleetproof-backend | v1.0.0|
+| Project Report | https://github.com/upc-pre-202620-asi0730-8088-blip/fleetproof-report | AV2 |
+| Landing Page | https://github.com/upc-pre-202620-asi0730-8088-blip/fleetproof-website | v3.0.0 publicada |
+| Frontend Web Application | https://github.com/upc-pre-202620-asi0730-8088-blip/fleetproof-webapp | v1.1.0|
+| Web Services | https://github.com/upc-pre-202620-asi0730-8088-blip/fleetproof-platform | v1.0.0|
 
 Landing Page desplegada en GitHub Pages: https://upc-pre-202620-asi0730-8088-blip.github.io/fleetproof-website/
 
-Release de la Landing Page: https://github.com/1ASI0730-8088-Blit/fleetproof-landing-page/releases/tag/v1.0.0
+Release de la Landing Page: https://github.com/upc-pre-202620-asi0730-8088-blip/fleetproof-website/releases/tag/v3.0.0
 
 Los repositorios de Frontend Web Application y Web Services ya fueron creados en la organización y su implementación corresponde a las siguientes entregas del curso.
